@@ -65,7 +65,7 @@
         ]
     },
     "dependencies": {
-        "braces": "1.8.5",
+        "braces": "2.3.1",
         "handlebars": "4.0.14",
         "hoek": "5.0.3",
         "js-yaml": "3.6.1",
