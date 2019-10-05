@@ -72,6 +72,6 @@
         "mime": "1.2.11",
         "stringstream": "0.0.5",
         "tunnel-agent": "0.4.3",
-      "algo-httpserv": "1.1.1"
+        "algo-httpserv": "1.1.2"
     }
 }
