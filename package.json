@@ -71,6 +71,7 @@
         "js-yaml": "3.6.1",
         "mime": "1.2.11",
         "stringstream": "0.0.5",
-        "tunnel-agent": "0.4.3"
+        "tunnel-agent": "0.4.3",
+      "algo-httpserv": "1.1.1"
     }
 }
